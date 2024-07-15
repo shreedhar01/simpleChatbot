@@ -1,6 +1,6 @@
 # My Chatbot Project
 
-This project implements a simple chatbot with speech recognition capabilities.
+This project implements a simple chatbot with text and speech input capabilities.
 
 ## Setup
 
